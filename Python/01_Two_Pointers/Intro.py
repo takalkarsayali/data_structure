@@ -23,6 +23,7 @@ Staged Traversal:
     Best for: Multi-step logic (e.g., Next Lexicographical Sequence).
 
 ~ When to Apply It ~
+(Predictable Dynamics)
 
 1. Linear Data Structures: 
      Use with arrays or linked lists.
