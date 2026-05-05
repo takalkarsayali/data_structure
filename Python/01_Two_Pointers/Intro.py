@@ -40,3 +40,15 @@ Garbage Collection:
 
 """
 print("Introduction to Two Pointer")
+
+# Function syntax
+'''
+def Function(var1 : dataStructure[type], var2: type) -> ReturnVar[ReturnType]:
+
+Example:
+    
+def tripletSum_bruteForce(nums : List[int]) -> List[int]:
+
+    The signature is a Python function declaration using "type hints". 
+    It describes a function that "takes" a list of integers as "input" and is "expected" to "return" a list of lists of integers
+'''
